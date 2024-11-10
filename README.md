@@ -1,2 +1,2 @@
 # archives-list
-list of all archives.
+list of all twitter account archives 
